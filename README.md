@@ -1,2 +1,3 @@
 # TFG-PINN-TermPaper
-Códigos utilizados para gerar os resultados no TFG sobre PINN aplicadas para equações de interesse na Eng. Mecânica.
+Códigos utilizados para gerar os resultados no Trabalho Final de Graduação sobre as PINN (Physics-informed Neural Networks): Ferramentas de Aprendizado de Máquina
+aplicadas à Engenharia: Uma análise de soluções numéricas de equações da Mecânica dos Fluidos
