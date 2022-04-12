@@ -1,0 +1,10 @@
+nu = 0.005/pi
+
+Noiseless
+Error u: 4.530519e-03
+Error l1: 0.01794%
+Error l2: 1.99222%
+
+Noisy
+Error lambda_1: 0.539207%
+Error lambda_2: 3.376949%

@@ -1,0 +1,10 @@
+nu = 0.1/pi 2 layers a mais 
+
+Noiseless
+Error u: 8.802749e-04
+Error l1: 0.06888%
+Error l2: 0.02229%
+
+Noisy
+Error lambda_1: 0.091511%
+Error lambda_2: 0.118274%
